@@ -1,0 +1,8 @@
+AWS 8th class -08 Feb 2024
+Ansible 3rd class -31 Jan 2024
+Ansible 7th class - 06 Feb 2024
+Ansible 8th class - 07 Feb 2024
+Ansible 11th class - 10 Feb 2024 (Sat)
+Docker 1st class -09 Feb 2024
+Docker 2nd class -10 Feb 2024
+
